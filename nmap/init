@@ -1,0 +1,8 @@
+# Nmap 7.94 scan initiated Fri Oct  4 02:00:53 2024 as: nmap -sN -sV -sC -oN nmap/init 10.10.2.227
+Nmap scan report for 10.10.2.227
+Host is up (0.000073s latency).
+All 1000 scanned ports on 10.10.2.227 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Fri Oct  4 02:01:10 2024 -- 1 IP address (1 host up) scanned in 16.71 seconds

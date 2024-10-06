@@ -1,0 +1,10 @@
+# Nmap 7.94SVN scan initiated Sun Oct  6 07:07:39 2024 as: /usr/lib/nmap/nmap --privileged -sV -sC -O -oA nmap/initial -sA 10.10.158.34
+Nmap scan report for 10.10.158.34
+Host is up (0.069s latency).
+All 1000 scanned ports on 10.10.158.34 are in ignored states.
+Not shown: 1000 unfiltered tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sun Oct  6 07:11:18 2024 -- 1 IP address (1 host up) scanned in 219.03 seconds
